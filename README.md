@@ -1,2 +1,2 @@
 # RL-Taxi
-Program that plays Taxi using reinforcement learning and back-propagation 
+Program that plays Taxi using reinforcement learning, qtables, and back-propagation 
