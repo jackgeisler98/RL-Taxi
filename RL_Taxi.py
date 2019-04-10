@@ -1,6 +1,6 @@
 #Jack Geisler 
 #imports done manually in the demo
-
+#sorry if theres a bunch of new commits im trying to get more fluent with my source control
 from IPython.display import HTML 
 import numpy as np
 import gym
