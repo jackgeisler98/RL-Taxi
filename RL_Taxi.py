@@ -1,6 +1,6 @@
 #Jack Geisler 
 #imports done manually in the demo
-#first commit
+
 from IPython.display import HTML 
 import numpy as np
 import gym
